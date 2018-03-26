@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FireBase Auth</string>
+    <string name="changeEmail">change Email</string>
+    <string name="changePassword">change password</string>
+    <string name="send_pass_reset_email">send password reset email</string>
+    <string name="btnRemove">remove</string>
+    <string name="btn_sign_out">sign out</string>
+    <string name="btn_change">change</string>
+    <string name="btn_send">send</string>
+    <string name="remove_user">remove user</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_newEmail">New Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_newPassword">New Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not yet a member? Get registered on FireBase now! </string>
+    <string name="btn_forgot_password">Forgot your Password?</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_message">We Just Need your registered Email Id, to send your Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<<back]]></string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="btn_link_to_login">Already registered. Login me in</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or signUp</string>
+</resources>
